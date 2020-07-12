@@ -1,2 +1,4 @@
 # Projeto-Embarcado
 Projeto Final de Sistemas Embarcados
+
+Projeto Final de Sistemas Embarcados Este projeto consistem em um sistema embarcado para verificação de senha, criado através da ferramenta Atmel Studio 7.0 utilizando o microcontrolador SAM R21 Xplained Pro. Para o desenvolvimento do sistema, foi implementado a ideia de RTOS (Real Time Operating System), um ambiente multi-tarefas para sistemas embarcados, através da solução aberta FREERTOS que foi projetado para ser pequeno, fácil, e para tornar os códigos legíveis, fácil de portar e manter, este método é escrito principalmente em C. A aplicação desenvolvida na matéria de projeto de sistemas embarcados, trata-se de um sistema de verificação de senhas, onde a entrada e saída de dados é realizada via Display OLED1 Xplained Pro e teclado, e processada pela placa SAM R21.
